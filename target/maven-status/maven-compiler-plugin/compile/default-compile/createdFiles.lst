@@ -1,5 +1,6 @@
 com/teamcodeflux/android/training/app/MainActivity_.java
 com/teamcodeflux/android/training/app/GetStartedActivity_.class
+com/teamcodeflux/android/training/app/ShowResultsActivity_$IntentBuilder_.class
 com/teamcodeflux/android/training/app/MainActivity.class
 com/teamcodeflux/android/training/app/R$string.class
 com/teamcodeflux/android/training/app/R$style.class
@@ -9,6 +10,7 @@ com/teamcodeflux/android/training/app/GetStartedActivity_$1.class
 com/teamcodeflux/android/training/app/GetStartedActivity_$IntentBuilder_.class
 com/teamcodeflux/android/training/app/R$drawable.class
 com/teamcodeflux/android/training/app/MainActivity_.class
+com/teamcodeflux/android/training/app/ShowResultsActivity_.java
 com/teamcodeflux/android/training/app/R.class
 com/teamcodeflux/android/training/app/R$id.class
 com/teamcodeflux/android/training/app/MainActivity_$IntentBuilder_.class
@@ -16,3 +18,5 @@ com/teamcodeflux/android/training/app/MainActivity_$1.class
 com/teamcodeflux/android/training/app/R$layout.class
 com/teamcodeflux/android/training/app/GetStartedActivity.class
 com/teamcodeflux/android/training/app/BuildConfig.class
+com/teamcodeflux/android/training/app/ShowResultsActivity.class
+com/teamcodeflux/android/training/app/ShowResultsActivity_.class

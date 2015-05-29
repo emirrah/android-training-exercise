@@ -24,8 +24,7 @@ public class GetStartedActivity extends Activity {
             filter.setError("Please specify!");
         }
         else {
-            Toast toast = Toast.makeText(this, keyword, Toast.LENGTH_LONG);
-            toast.show();
+            ShowResultsActivity_.intent(this).keyword(keyword).start();
         }
     }
 }

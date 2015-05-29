@@ -10,4 +10,8 @@
     <string name="search_activity">Search Now</string>
     <string name="filter_hint">Enter keyword</string>
     <string name="search">Search</string>
+
+    <!-- Results View Strings -->
+    <string name="results_activity">Results</string>
+    <string name="results">Results</string>
 </resources>

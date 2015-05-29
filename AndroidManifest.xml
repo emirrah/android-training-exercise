@@ -19,5 +19,8 @@
         <activity android:name="GetStartedActivity_"
                   android:label="@string/search_activity"
                   android:parentActivityName="MainActivity_"/>
+        <activity android:name="ShowResultsActivity_"
+                  android:label="@string/results_activity"
+                  android:parentActivityName="GetStartedActivity_"/>
     </application>
 </manifest>
