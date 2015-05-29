@@ -9,6 +9,12 @@
   <packaging>apk</packaging>
   <name>AndroidTrainingExercise</name>
 
+    <application>
+        <meta-data
+                android:name="com.google.android.geo.API_KEY"
+                android:value="AIzaSyCavsZumyXZdNFlyO1mZBEzP9_8xq7KK2g"/>
+    </application>
+
   <properties>
     <android.version>4.1.2_r5</android.version>
     <android-maven-plugin.version>4.0.0-rc.2</android-maven-plugin.version>
