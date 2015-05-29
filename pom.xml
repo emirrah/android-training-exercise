@@ -22,6 +22,18 @@
       <version>${android.version}</version>
       <scope>provided</scope>
     </dependency>
+
+      <dependency>
+          <groupId>org.androidannotations</groupId>
+          <artifactId>androidannotations</artifactId>
+          <version>3.2</version>
+          <scope>provided</scope>
+      </dependency>
+      <dependency>
+          <groupId>org.androidannotations</groupId>
+          <artifactId>androidannotations-api</artifactId>
+          <version>3.2</version>
+      </dependency>
   </dependencies>
 
   <build>

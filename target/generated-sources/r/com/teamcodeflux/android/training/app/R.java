@@ -14,19 +14,28 @@ public final class R {
         public static final int ic_launcher=0x7f020000;
     }
     public static final class id {
-        public static final int get_started=0x7f060000;
+        public static final int filter=0x7f060000;
+        public static final int get_started=0x7f060002;
+        public static final int search=0x7f060001;
     }
     public static final class layout {
-        public static final int main=0x7f030000;
+        public static final int activity_get_started=0x7f030000;
+        public static final int main=0x7f030001;
     }
     public static final class string {
         public static final int app_name=0x7f040000;
+        public static final int filter_hint=0x7f040004;
+        public static final int search=0x7f040005;
+        /**  Search View Strings 
+         */
+        public static final int search_activity=0x7f040003;
         public static final int start_now=0x7f040002;
         /**  Main View Strings 
          */
         public static final int welcome_text=0x7f040001;
     }
     public static final class style {
+        public static final int search_text=0x7f050001;
         public static final int welcome_text=0x7f050000;
     }
 }

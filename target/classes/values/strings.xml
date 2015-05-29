@@ -5,4 +5,9 @@
     <!-- Main View Strings -->
     <string name="welcome_text">Find the things you need...</string>
     <string name="start_now">Get started</string>
+
+    <!-- Search View Strings -->
+    <string name="search_activity">Search Now</string>
+    <string name="filter_hint">Enter keyword</string>
+    <string name="search">Search</string>
 </resources>
