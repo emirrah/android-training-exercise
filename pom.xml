@@ -15,6 +15,12 @@
     <android.sdk>16</android.sdk>
   </properties>
 
+    <repository>
+        <id>google-gms</id>
+        <name>Google GMS</name>
+        <url>file://${env.ANDROID_HOME}extras/google/m2repository</url>
+    </repository>
+
   <dependencies>
     <dependency>
       <groupId>android</groupId>
@@ -33,6 +39,19 @@
           <groupId>org.androidannotations</groupId>
           <artifactId>androidannotations-api</artifactId>
           <version>3.2</version>
+      </dependency>
+
+      <dependency>
+          <groupId>com.google.android.gms</groupId>
+          <artifactId>play-services</artifactId>
+          <version>6.5.87</version>
+          <type>aar</type>
+          <exclusions>
+              <exclusion>
+                  <groupId>com.android.support</groupId>
+                  <artifactId>support-v4</artifactId>
+              </exclusion>
+          </exclusions>
       </dependency>
   </dependencies>
 
