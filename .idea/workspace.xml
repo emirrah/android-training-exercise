@@ -7,7 +7,44 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d08cf9d7-ac22-45e4-b749-abc500ff5e9b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_android_gms_play_services_aar_6_5_87.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_1_3_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_3_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_3_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20140107.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__se_walkercrou_google_places_api_java_2_1_2.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/AndroidTrainingExercise.ap_" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/AndroidTrainingExercise.apk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/AndroidTrainingExercise.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/R.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/teamcodeflux/android/training/app/BuildConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/teamcodeflux/android/training/app/MainActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/teamcodeflux/android/training/app/R$attr.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/teamcodeflux/android/training/app/R$drawable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/teamcodeflux/android/training/app/R$layout.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/teamcodeflux/android/training/app/R$string.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/teamcodeflux/android/training/app/R.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/drawable-hdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/drawable-ldpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/drawable-mdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/drawable-xhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/layout/main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/values/strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/generated-sources/r/com/teamcodeflux/android/training/app/BuildConfig.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidManifest.xml" afterPath="$PROJECT_DIR$/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/teamcodeflux/android/training/app/MainActivity.java" afterPath="$PROJECT_DIR$/src/main/java/com/teamcodeflux/android/training/app/MainActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/generated-sources/r/com/teamcodeflux/android/training/app/R.java" afterPath="$PROJECT_DIR$/target/generated-sources/r/com/teamcodeflux/android/training/app/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.iml" afterPath="$PROJECT_DIR$/app.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="android-training-exercise.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -35,23 +72,45 @@
       <file leaf-file-name="ShowResultsActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/teamcodeflux/android/training/app/ShowResultsActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.6" vertical-offset="0" max-vertical-offset="435">
+            <state vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="435">
               <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#426#427#0" expanded="true" />
-                <element signature="e#466#467#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/teamcodeflux/android/training/app/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.04901961" vertical-offset="30" max-vertical-offset="750">
+              <caret line="4" column="57" selection-start-line="4" selection-start-column="57" selection-end-line="4" selection-end-column="57" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.32967034" vertical-offset="0" max-vertical-offset="1635">
-              <caret line="14" column="70" selection-start-line="14" selection-start-column="70" selection-end-line="14" selection-end-column="70" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="1530">
+              <caret line="53" column="19" selection-start-line="53" selection-start-column="19" selection-end-line="53" selection-end-column="19" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-15.0" vertical-offset="0" max-vertical-offset="720">
+              <caret line="25" column="69" selection-start-line="25" selection-start-column="69" selection-end-line="25" selection-end-column="69" />
+              <folding>
+                <element signature="e#754#772#0" expanded="true" />
+                <element signature="e#1199#1217#0" expanded="true" />
+                <element signature="e#1260#1278#0" expanded="true" />
+                <element signature="e#1561#1586#0" expanded="true" />
+                <element signature="e#1736#1762#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -59,11 +118,9 @@
       <file leaf-file-name="activity_show_results.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/res/layout/activity_show_results.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.6363635" vertical-offset="0" max-vertical-offset="390">
+            <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="390">
               <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
-              <folding>
-                <element signature="e#489#506#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
           <provider editor-type-id="android-designer">
@@ -74,7 +131,7 @@
       <file leaf-file-name="strings.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.4" vertical-offset="0" max-vertical-offset="345">
+            <state vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="345">
               <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
               <folding />
             </state>
@@ -90,15 +147,15 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/res/layout/main.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/teamcodeflux/android/training/app/MainActivity.java" />
         <option value="$PROJECT_DIR$/res/layout/activity_get_started.xml" />
         <option value="$PROJECT_DIR$/res/values/styles.xml" />
         <option value="$PROJECT_DIR$/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/res/layout/activity_show_results.xml" />
-        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/teamcodeflux/android/training/app/GetStartedActivity.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/teamcodeflux/android/training/app/ShowResultsActivity.java" />
+        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/teamcodeflux/android/training/app/MainActivity.java" />
       </list>
     </option>
   </component>
@@ -138,7 +195,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -236,6 +292,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -248,8 +305,9 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="SearchEverywhereHistoryKey" value="pom&#9;FILE&#9;file:///Users/em.dogelio/AndroidTraining/android-training-exercise/pom.xml&#10;sty&#9;FILE&#9;file:///Users/em.dogelio/AndroidTraining/android-training-exercise/res/values/styles.xml&#10;main&#9;FILE&#9;file:///Users/em.dogelio/AndroidTraining/android-training-exercise/src/main/java/com/teamcodeflux/android/training/app/MainActivity.java&#10;stri&#9;FILE&#9;file:///Users/em.dogelio/AndroidTraining/android-training-exercise/res/values/strings.xml&#10;manife&#9;FILE&#9;file:///Users/em.dogelio/AndroidTraining/android-training-exercise/AndroidManifest.xml&#10;string&#9;FILE&#9;file:///Users/em.dogelio/AndroidTraining/android-training-exercise/res/values/strings.xml&#10;main.xml&#9;FILE&#9;file:///Users/em.dogelio/AndroidTraining/android-training-exercise/res/layout/main.xml&#10;manifest&#9;FILE&#9;file:///Users/em.dogelio/AndroidTraining/android-training-exercise/AndroidManifest.xml" />
+    <property name="SearchEverywhereHistoryKey" value="pom&#9;FILE&#9;file:///Users/em.dogelio/AndroidTraining/android-training-exercise/pom.xml&#10;manife&#9;FILE&#9;file:///Users/em.dogelio/AndroidTraining/android-training-exercise/AndroidManifest.xml&#10;main&#9;FILE&#9;file:///Users/em.dogelio/AndroidTraining/android-training-exercise/src/main/java/com/teamcodeflux/android/training/app/MainActivity.java&#10;sty&#9;FILE&#9;file:///Users/em.dogelio/AndroidTraining/android-training-exercise/res/values/styles.xml&#10;stri&#9;FILE&#9;file:///Users/em.dogelio/AndroidTraining/android-training-exercise/res/values/strings.xml&#10;string&#9;FILE&#9;file:///Users/em.dogelio/AndroidTraining/android-training-exercise/res/values/strings.xml&#10;main.xml&#9;FILE&#9;file:///Users/em.dogelio/AndroidTraining/android-training-exercise/res/layout/main.xml&#10;manifest&#9;FILE&#9;file:///Users/em.dogelio/AndroidTraining/android-training-exercise/AndroidManifest.xml" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../android-training-drive/res/layout/main.xml" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -308,19 +366,6 @@
       </ExternalSystemSettings>
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -347,6 +392,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -428,7 +486,6 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -444,10 +501,11 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20555556" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Memory Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -474,16 +532,59 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/teamcodeflux/android/training/app/ShowResultsActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="435">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/teamcodeflux/android/training/app/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="705">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="1635">
+          <caret line="14" column="70" selection-start-line="14" selection-start-column="70" selection-end-line="14" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/activity_show_results.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="390">
+          <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="345">
+          <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#345#363#0" expanded="true" />
-            <element signature="e#481#499#0" expanded="true" />
-            <element signature="e#542#560#0" expanded="true" />
-            <element signature="e#843#868#0" expanded="true" />
-            <element signature="e#1018#1044#0" expanded="true" />
+            <element signature="e#754#772#0" expanded="true" />
+            <element signature="e#1199#1217#0" expanded="true" />
+            <element signature="e#1260#1278#0" expanded="true" />
+            <element signature="e#1561#1586#0" expanded="true" />
+            <element signature="e#1736#1762#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -507,17 +608,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/teamcodeflux/android/training/app/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.22058824" vertical-offset="0" max-vertical-offset="612">
-          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
-          <folding>
-            <element signature="e#330#331#0" expanded="true" />
-            <element signature="e#386#387#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/res/values/styles.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.29411766" vertical-offset="0" max-vertical-offset="612">
@@ -531,8 +621,8 @@
         <state vertical-scroll-proportion="0.15463917" vertical-offset="0" max-vertical-offset="582">
           <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
           <folding>
-            <element signature="e#451#472#0" expanded="true" />
-            <element signature="e#1034#1050#0" expanded="true" />
+            <element signature="e#451#472#0" expanded="false" />
+            <element signature="e#1034#1050#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -542,7 +632,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.4" vertical-offset="0" max-vertical-offset="345">
+        <state vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="345">
           <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
           <folding />
         </state>
@@ -550,11 +640,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/activity_show_results.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.6363635" vertical-offset="0" max-vertical-offset="390">
+        <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="390">
           <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
-          <folding>
-            <element signature="e#489#506#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
       <provider editor-type-id="android-designer">
@@ -565,42 +653,43 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6617647" vertical-offset="0" max-vertical-offset="612">
           <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44117647" vertical-offset="0" max-vertical-offset="612">
-          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
-          <folding>
-            <element signature="e#345#363#0" expanded="true" />
-            <element signature="e#481#499#0" expanded="true" />
-            <element signature="e#542#560#0" expanded="true" />
-            <element signature="e#843#868#0" expanded="true" />
-            <element signature="e#1018#1044#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/teamcodeflux/android/training/app/ShowResultsActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.6" vertical-offset="0" max-vertical-offset="435">
+        <state vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="435">
           <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#426#427#0" expanded="true" />
-            <element signature="e#466#467#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32967034" vertical-offset="0" max-vertical-offset="1635">
-          <caret line="14" column="70" selection-start-line="14" selection-start-column="70" selection-end-line="14" selection-end-column="70" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="1530">
+          <caret line="53" column="19" selection-start-line="53" selection-start-column="19" selection-end-line="53" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.0" vertical-offset="0" max-vertical-offset="720">
+          <caret line="25" column="69" selection-start-line="25" selection-start-column="69" selection-end-line="25" selection-end-column="69" />
+          <folding>
+            <element signature="e#754#772#0" expanded="true" />
+            <element signature="e#1199#1217#0" expanded="true" />
+            <element signature="e#1260#1278#0" expanded="true" />
+            <element signature="e#1561#1586#0" expanded="true" />
+            <element signature="e#1736#1762#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/teamcodeflux/android/training/app/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.04901961" vertical-offset="30" max-vertical-offset="750">
+          <caret line="4" column="57" selection-start-line="4" selection-start-column="57" selection-end-line="4" selection-end-column="57" />
           <folding />
         </state>
       </provider>

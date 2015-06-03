@@ -9,23 +9,11 @@
   <packaging>apk</packaging>
   <name>AndroidTrainingExercise</name>
 
-    <application>
-        <meta-data
-                android:name="com.google.android.geo.API_KEY"
-                android:value="AIzaSyCavsZumyXZdNFlyO1mZBEzP9_8xq7KK2g"/>
-    </application>
-
   <properties>
     <android.version>4.1.2_r5</android.version>
     <android-maven-plugin.version>4.0.0-rc.2</android-maven-plugin.version>
     <android.sdk>16</android.sdk>
   </properties>
-
-    <repository>
-        <id>google-gms</id>
-        <name>Google GMS</name>
-        <url>file://${env.ANDROID_HOME}extras/google/m2repository</url>
-    </repository>
 
   <dependencies>
     <dependency>
@@ -34,6 +22,11 @@
       <version>${android.version}</version>
       <scope>provided</scope>
     </dependency>
+      <dependency>
+          <groupId>se.walkercrou</groupId>
+          <artifactId>google-places-api-java</artifactId>
+          <version>2.1.2</version>
+      </dependency>
 
       <dependency>
           <groupId>org.androidannotations</groupId>
