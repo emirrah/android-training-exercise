@@ -15,6 +15,14 @@
     <android.sdk>16</android.sdk>
   </properties>
 
+    <repositories>
+        <repository>
+            <id>google-gms</id>
+            <name>Google GMS</name>
+            <url>file://${env.ANDROID_HOME}extras/google/m2repository</url>
+        </repository>
+    </repositories>
+
   <dependencies>
     <dependency>
       <groupId>android</groupId>
@@ -22,11 +30,6 @@
       <version>${android.version}</version>
       <scope>provided</scope>
     </dependency>
-      <dependency>
-          <groupId>se.walkercrou</groupId>
-          <artifactId>google-places-api-java</artifactId>
-          <version>2.1.2</version>
-      </dependency>
 
       <dependency>
           <groupId>org.androidannotations</groupId>
@@ -38,19 +41,6 @@
           <groupId>org.androidannotations</groupId>
           <artifactId>androidannotations-api</artifactId>
           <version>3.2</version>
-      </dependency>
-
-      <dependency>
-          <groupId>com.google.android.gms</groupId>
-          <artifactId>play-services</artifactId>
-          <version>6.5.87</version>
-          <type>aar</type>
-          <exclusions>
-              <exclusion>
-                  <groupId>com.android.support</groupId>
-                  <artifactId>support-v4</artifactId>
-              </exclusion>
-          </exclusions>
       </dependency>
   </dependencies>
 

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: android:android:x.y.z">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/android/android/x.y.z/android-x.y.z.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/android/android/x.y.z/android-x.y.z-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/android/android/x.y.z/android-x.y.z-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
